@@ -1,8 +1,2 @@
 
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
-
+https://github.com/sj00cs/VirtualPet/blob/gh-pages/VirtualPet.pde
